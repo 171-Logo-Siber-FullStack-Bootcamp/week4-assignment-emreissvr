@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+# Project Details
+- Bu projede html dosyasındaki kodları vue.js kodları içerisindeki <template></template> etiketleri ile komponentlere ayırarak gösterilmesini sağladım.
